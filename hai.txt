@@ -1,1 +1,2 @@
-Hai
+Hai ini file txt awal kamu belajar git
+sekarang next belajar laravel yaaa
